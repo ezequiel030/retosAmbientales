@@ -1,4 +1,4 @@
-# retosAmbientales
+# Retos Ambientales
 
 # indice 
 1. Introducción
