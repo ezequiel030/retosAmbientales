@@ -5,7 +5,7 @@
 # indice 
 1. [Introducción](introduccion.md) 
 2. [Principales retos ambientales y sociales](retos-ambientales_sociales.md)
-3. Impacto de los actuales problemas medioambientales.
+3. [Impacto de los actuales problemas medioambientales](problemasMedioambientales.md)
 4. Medidas y acciones para minimizar los impactos ambientales.
 5. Conclusiones
 6. Mapa conseptual
