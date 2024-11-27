@@ -5,8 +5,8 @@
 ## Los principales retos ambientales y  sociales que estamos sufriendo como humanidad son los siguientes:
 
 Para comenzar, mencionaremos los principales retos ambientales, estos son los suiguientes:
-1. Cambio climatico:
-2. Pérdida de Biodiversidad:
+1. El cambio climatico, es causado por la emision de gases como CO2, esto provoca cambios en el clima y en la meteorológia  
+2. La pérdida de Biodiversidad, esta llevando a la extinción de especies animales y vegetales 
 3. Contaminación:
 4. Escasez de recursos naturales:
 5. Deforestación:
