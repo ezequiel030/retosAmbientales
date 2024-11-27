@@ -1,5 +1,7 @@
 # Principales retos ambientales y sociales 
 
+![Principales Retos Ambientales](img/principalesRetos.jpg)
+
 ## Los principales retos ambientales y  sociales que estamos sufriendo como humanidad son los siguientes:
 
 ## Para comenzar, mencionaremos los principales retos ambientales, estos son los suiguientes:
