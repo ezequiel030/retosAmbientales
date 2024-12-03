@@ -22,4 +22,15 @@ De igual forma, mencionaremos también los principales retos sociales; los cuale
 5. Derechos humanos y justicia social:
 6. Salud pública:
 
+1. La desigualdad social, es una distribución inequitativa de recursos, oportunidades y poder entre distintos grupos, lo que perpetúa la pobreza, exclusión y falta de acceso a servicios básicos para las comunidades más vulnerables.
+
+2. El acceso a la educación, se refierea las  personas que carecen de oportunidades educativas debido a barreras económicas, geográficas, culturales o de género, lo que limita su desarrollo personal y contribuye a la perpetuación de la pobreza.
+
+3.  El desempleo y condiciones laborales precarias, son  el acceso limitado a empleos dignos y bien remunerados afecta la estabilidad económica de las familias y perpetúa la desigualdad, especialmente en sectores vulnerables como mujeres y jóvenes.
+
+4. La migración forzada y desplazamiento, son los factores como conflictos, violencia, desastres naturales y el cambio climático obligan a millones a abandonar sus hogares, enfrentando discriminación y falta de oportunidades en los lugares a los que migran.
+
+5. Los derechos humanos y justicia social, son las comunidades que enfrentan discriminación, violencia y negación de sus derechos fundamentales, lo que socava la igualdad y la cohesión social.
+
+6.  Y por último, la salud pública, su acceso es desigual a servicios de salud, infraestructuras deficientes y desafíos globales como pandemias y enfermedades crónicas afectan la calidad de vida y aumentan las disparidades sociales.
 
