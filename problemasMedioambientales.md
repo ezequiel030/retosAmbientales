@@ -11,3 +11,5 @@
 8. Superpoblación: Además del problema de la generación de residuos mencionado anteriormente, lo más preocupante del asunto es el aumento en la explotación de materias primas que para nuestra desgracia no son infinitas
 9. Invasión y tráfico ilegal de especies: Además de ser una práctica terrible para los animales, también puede serlo para el medioambiente. En muchas ocasiones una especie puede acabar en un territorio donde no tiene depredadores o llevar enfermedades nuevas a una zona y que desemboque en un gran desastre medioambiental.
 10.  Desconexión social: Fomenta el aislamiento, debilitando las relaciones comunitarias, lo que a su vez incrementa los problemas de salud mental y dificulta la colaboración necesaria para abordar desafíos colectivos.
+
+![Impacto problemas medioambientales](img/Foto-Notiweb_Día-medio-ambiente.jpg)
