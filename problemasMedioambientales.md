@@ -1,7 +1,5 @@
 # Impacto de los actuales problemas medioambientales.
 
----
-
 ![Impacto problemas medioambientales](img/Foto-Notiweb_Día-medio-ambiente.jpg)
 
 ## A continuación mencionaré los actuales 10 problemas mediambentales mas importantes con sus respectivos impactos:
