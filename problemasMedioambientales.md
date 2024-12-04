@@ -1,7 +1,7 @@
 # Impacto de los actuales problemas medioambientales.
 
 ![Impacto problemas medioambientales](img/Foto-Notiweb_Día-medio-ambiente.jpg)
-
+---
 ## A continuación mencionaré los actuales 10 problemas mediambentales mas importantes con sus respectivos impactos:
 1. Calentamiento global: Provoca un aumento de temperaturas extremas, con fenómenos climáticos más frecuentes e intensos, además del derretimiento de glaciares y el consecuente aumento del nivel del mar. 
 2. Contaminación: OMS estima que el 90% de la humanidad respira aire contaminado, el agua contaminada dificulta el acceso a un bien vital para la supervivencia y contamina mares. La tierra yerma, contaminada con pesticidas y herbicidas, imposibilita continuar cultivando y alimentando el planeta. Es un problema ambiental del planeta muy serio y multifactorial.
