@@ -8,7 +8,7 @@
 3. [Impacto de los actuales problemas medioambientales](problemasMedioambientales.md)
 4. [Medidas y acciones para minimizar los impactos ambientales](minimizarImpactos.md)
 5. [Conclusiones](conclusiones.md)
-6. [Mapa conseptual](mapaConseptual.md)
+6. [Mapa conseptual](mapaConceptual.md)
 7. [Glosario](Glosario.md)
 8. [Referencias](referencias.md)
 9. [Autor](autor.md)
