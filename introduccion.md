@@ -3,7 +3,6 @@
 ---
 <p align="justify">
 Para ponernos en contexto debemos preguntarnos. ¿Qué es el clima? es el conjunto de condiciones atmosféricas que caracterizan una región durante largos períodos de tiempo, incluyendo factores como temperatura, humedad, precipitación, viento y presión atmosférica.
-
 </p>
 
 <p align="justify">
