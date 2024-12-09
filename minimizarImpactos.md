@@ -5,6 +5,10 @@ Algunas de las medidas más comunes son ahorrar agua, evitar el consumo excesivo
 </p>
 
 <p align="justify">
+La escala de la etiqueta energética en la actualidad va desde A (muy eficiente) hasta G (menos eficiente). La etiqueta incluye colores del verde al rojo para facilitar su interpretación. El elegir electrodomesticos con etiqueta verde es una buena forma de ayudar a minimizar estos problemas ambientales.
+</p>
+
+<p align="justify">
 El compostaje es una medida que podemos utilizar para minimizar los impactos ambientales en el suelo, ya que es es una técnica que se uiliza para reducir los residuos orgánicos y transformarlos en abono natural, promoviendo la fertilidad del suelo.
 </p>
 
