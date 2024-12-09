@@ -2,6 +2,11 @@
 
 ![Principales Retos Ambientales](img/principalesRetos.jpg)
 
+<p align="justify">
+Uno de los principales retos ambientales somos nosotros mismos, ya que somos los encargados de destruir todo el planeta, los que estamos consumiendo todos los recursos naturales, La ONU prevé que para el año 2050 la población mundial sea de:
+La ONU estima que la población mundial podría alcanzar aproximadamente 9,7 mil millones de personas en 2050, según proyecciones actuales.
+</p>
+
 ## Los principales retos ambientales y  sociales que estamos sufriendo como humanidad son los siguientes:
 
 Para comenzar, mencionaremos los principales retos ambientales, estos son los suiguientes:
