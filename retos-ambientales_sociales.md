@@ -3,7 +3,7 @@
 ![Principales Retos Ambientales](img/principalesRetos.jpg)
 
 
-## Los principales retos ambientales y  sociales que estamos sufriendo como humanidad son los siguientes:
+## Los retos ambientales y  sociales que estamos sufriendo como humanidad son los siguientes:
 
 <p align="justify">
 Uno de los principales retos ambientales somos nosotros mismos, ya que somos los encargados de destruir todo el planeta, los que estamos consumiendo todos los recursos naturales, La ONU prevé que para el año 2050 la población mundial sea de:
