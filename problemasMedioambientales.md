@@ -6,6 +6,10 @@
 El impacto que tienen las grandes países en los problemas ambientales mundiales son muy grandes, Los países más poblados del mundo como lo son:India, China ,Estados Unidos, Indonesia, Pakistán, son países que contaminan mucho por su nivel de producción, tanto en tecnologia, como en agricultura.
 </p>
 
+<p align="justify">
+En España, según datos del INE, cada ciudadano genera aproximadamente 1,4 kilogramos de residuos al día, lo que equivale a cerca de 500 kg por año.
+</p>
+
 ---
 
 A continuación mencionaré alugunos de los actuales problemas mediambentales más importantes:
